@@ -1,1 +1,1 @@
-Add initial file for merge conflict test
+This line was changed in feature2 branch.
