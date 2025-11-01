@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Add initial file for merge conflict test
     
+=======
+This line was changed in feature1 branch.
+>>>>>>> 52af64b (Modified line in feature1)
